@@ -1,0 +1,55 @@
+.header-in{
+    background: rgb(0,62,124);
+    color: white;
+    display:flex;
+    justify-content: space-between;
+    height:10vh;
+}
+
+.menu nav a{
+    color:white;
+    text-decoration: none;
+    font-size: 1rem;
+    padding: 1rem;
+    margin-right: 1rem;
+}
+nav a:hover{
+    color:#8bafc4;
+}
+
+.img-logo{
+    width: 100%;
+
+
+}
+
+h1{
+    font-size: 2rem;
+}
+
+.info{
+    font-size: 1rem;
+    color: rgb(0,62,124);
+    text-align: center;
+
+}
+
+
+.footer-in{
+    font-size: 1rem;
+    color:black;
+    border-top:1px solid black;
+}
+.found{
+    background: rgb(151, 118, 145);
+}
+.bold{
+    font-weight: 300;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+}
+.pets{
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
